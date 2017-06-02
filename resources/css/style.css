@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Helvetica;
   text-align: center;
 }
@@ -57,4 +57,17 @@ h4 {
   background-image: url(../images/the-flatiron-building.png);
   background-size: auto;
   color: #fff;
+}
+
+/* footer styling */
+
+#footer {
+  color: #fff;
+  background-color: #696969;
+  font-size: 22px;
+  text-align: left;
+}
+
+span {
+  font-size: 11px;
 }
