@@ -3,10 +3,12 @@
   text-align: center;
 }
 
+/* header styles */
+
 h1 {
-  color: #fff;
   font-size: 70px;
   font-weight: bold;
+  margin: 40px 0 0 0;
 }
 
 #header {
@@ -26,4 +28,20 @@ a {
   color: #fff;
   font-size: 18px;
   text-decoration: underline
+}
+
+/* main section styles */
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 14px;
 }
